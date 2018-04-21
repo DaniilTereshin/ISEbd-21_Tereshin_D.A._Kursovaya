@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\bin\Debug\AbstractShopService.dll
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\bin\Debug\AbstractShopService.pdb
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\bin\Debug\AbstractShopModel.dll
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\bin\Debug\AbstractShopModel.pdb
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\obj\Debug\MotorZavodService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\obj\Debug\AbstractShopService.dll
+C:\Users\Admin\Desktop\ТП\AbstractShop-LabWork09\AbstractShopService\obj\Debug\AbstractShopService.pdb
